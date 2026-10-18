@@ -218,3 +218,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Bilibili hotspot video factory: generated runs and credentials
+/runs/
+/deliverables/
+/diagnostics/
+/production/examples/deepseek/assets/
+/production/fonts/*.ttf
+/production/fonts/*.otf
+*.log
+*.mp4
+*.wav
+*.mp3
+*.pem
+*.p12
+*.key
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+*credential*
+*refresh_token*
+*oauth*token*
+/.credentials/
+/secrets/
