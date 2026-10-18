@@ -65,7 +65,7 @@ jobs:
         run: python production/fetch_licensed_assets.py --manifest production/examples/deepseek/assets_manifest.json
       - name: Produce and QA local pipeline smoke test
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'local-smoke'
-        run: production/run_production.sh --story production/examples/deepseek/story.json --assets production/examples/deepseek/assets_manifest.json
+        run: bash production/run_production.sh --story production/examples/deepseek/story.json --assets production/examples/deepseek/assets_manifest.json
       - name: Preserve local-smoke MP4 as an Actions artifact
         if: success() && github.event_name == 'workflow_dispatch' && inputs.mode == 'local-smoke'
         uses: actions/upload-artifact@v4
@@ -88,7 +88,8 @@ jobs:
         shell: bash
         run: |
           mkdir -p diagnostics
-          printf '{"workflow":"daily-video","run_id":"%s","status":"failed","note":"Inspect action log; no media or credentials are uploaded."}\n' "$GITHUB_RUN_ID" > diagnostics/failure_summary.json
+          printf '{"workflow":"daily-video","run_id":"%s","status":"failed","note":"Inspect action log; no media or credentials are uploaded."}
+' "$GITHUB_RUN_ID" > diagnostics/failure_summary.json
       - uses: actions/upload-artifact@v4
         if: failure()
         with:
