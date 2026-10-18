@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "id": "sample",
+      "rights_reviewed": false,
+      "path": "../refreshed/assets/roadster_2017_exterior.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tesla_Roadster_2.0_(47619421652).jpg",
+      "creator": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution": "Steve Jurvetson, CC BY 2.0",
+      "use_basis": "Creative Commons Attribution; credit shown in scene and metadata",
+      "visual_kind": "historical_photo",
+      "captured_or_published": "2019",
+      "represents_current_event": false,
+      "modifications": "Portrait crop and slow pan; labeled historical image"
+    }
+  ]
+}

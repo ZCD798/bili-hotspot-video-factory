@@ -1,0 +1,19 @@
+{
+  "task_id": "example-story",
+  "language": "zh-CN",
+  "title": "示例标题：热点背后的真实变化是什么？",
+  "description": "示例简介。正式运行前请替换为本次选题、事实来源和图片授权信息。",
+  "tags": ["热点解读", "示例"],
+  "hot_search": {
+    "snapshot_path": "../refreshed/hotsearch_snapshot.json",
+    "keyword": "待填写的热点词",
+    "rank": 1,
+    "collected_at": "待填写"
+  },
+  "claims": [
+    {"text": "待核实的事实", "sources": ["https://example.org/primary-source"], "status": "verified"}
+  ],
+  "script_segments": [
+    {"id": "01", "text": "这里填写一段口语化解说。", "asset_id": "sample", "headline": "关键事实", "visual_note": "示例图片"}
+  ]
+}
