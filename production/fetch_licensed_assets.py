@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Download only manifest assets marked rights_reviewed; validate bytes and record SHA-256."""
-import argparse, hashlib, json, os, urllib.request
+import argparse, hashlib, json, os, time, urllib.error, urllib.request
 from pathlib import Path
 from PIL import Image
 
@@ -16,7 +16,16 @@ def run(manifest_path):
         if not dst.is_relative_to(p.parent): raise ValueError(f"asset {asset['id']} path escapes the manifest directory")
         dst.parent.mkdir(parents=True,exist_ok=True)
         req=urllib.request.Request(asset["download_url"],headers={"User-Agent":"HotspotVideoPipeline/2.0 (approved-assets-downloader)"})
-        with urllib.request.urlopen(req,timeout=35) as r: content=r.read()
+        for attempt in range(3):
+            try:
+                with urllib.request.urlopen(req,timeout=35) as r: content=r.read()
+                break
+            except urllib.error.HTTPError as exc:
+                if exc.code not in (429, 500, 502, 503, 504) or attempt == 2:
+                    raise
+                retry_after=exc.headers.get("Retry-After")
+                delay=min(int(retry_after),15) if retry_after and retry_after.isdigit() else 2 ** attempt
+                time.sleep(delay)
         dst.write_bytes(content)
         with Image.open(dst) as im:
             im.verify();asset["sha256"]=hashlib.sha256(content).hexdigest();asset["downloaded_bytes"]=len(content);asset["verified_dimensions"]=list(im.size)
