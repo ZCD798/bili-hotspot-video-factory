@@ -1,0 +1,359 @@
+{
+  "collected_at": "2026-10-18T10:42:22+08:00",
+  "timezone": "Asia/Shanghai",
+  "source_url": "https://s.search.bilibili.com/main/hotword?limit=50&platform=pc",
+  "hot_search_page": "https://www.bilibili.com/v/popular/rank/all",
+  "item_count": 50,
+  "items": [
+    {
+      "rank": 1,
+      "keyword": "科学家们用物理智斗爱因斯坦",
+      "hot_id": 277614,
+      "heat_score": 3199803,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 2,
+      "keyword": "猎鹰爆冷无缘决赛",
+      "hot_id": 277606,
+      "heat_score": 2558234,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 3,
+      "keyword": "DeepSeek新模型对比Astra",
+      "hot_id": 277621,
+      "heat_score": 1865165,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 4,
+      "keyword": "DeepSeek更新V4.1 Flash",
+      "hot_id": 277615,
+      "heat_score": 1085680,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 5,
+      "keyword": "UP主自制CG动画明日香",
+      "hot_id": 277613,
+      "heat_score": 921795,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 6,
+      "keyword": "胡塞武装为何猛攻沙特",
+      "hot_id": 277618,
+      "heat_score": 883202,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 7,
+      "keyword": "锐评BFX战胜WE选手表现",
+      "hot_id": 277620,
+      "heat_score": 754369,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 8,
+      "keyword": "文化中国行九九重阳节",
+      "hot_id": 277622,
+      "heat_score": 720697,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 9,
+      "keyword": "曼城3-2伊普斯维奇",
+      "hot_id": 277602,
+      "heat_score": 666987,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 10,
+      "keyword": "MVK FUR",
+      "hot_id": 277579,
+      "heat_score": 592826,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 11,
+      "keyword": "央视记者再走长征路",
+      "hot_id": 277491,
+      "heat_score": 592818,
+      "heat_layer": "S"
+    },
+    {
+      "rank": 12,
+      "keyword": "带给我们童年回忆的王老大去哪了",
+      "hot_id": 277445,
+      "heat_score": 592803,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 13,
+      "keyword": "NBA东部常规赛各队问题是什么",
+      "hot_id": 277589,
+      "heat_score": 592769,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 14,
+      "keyword": "毕导 科普UP主会被AI取代吗",
+      "hot_id": 277503,
+      "heat_score": 592285,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 15,
+      "keyword": "某些大学老师水课belike",
+      "hot_id": 277514,
+      "heat_score": 591180,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 16,
+      "keyword": "英伟达称RTX5090没有停产",
+      "hot_id": 277593,
+      "heat_score": 557450,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 17,
+      "keyword": "UP主手搓飞行滑板",
+      "hot_id": 277311,
+      "heat_score": 541611,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 18,
+      "keyword": "近期电竞赛事热门事件盘点",
+      "hot_id": 277559,
+      "heat_score": 528167,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 19,
+      "keyword": "维斯塔潘从P24超到P9",
+      "hot_id": 277616,
+      "heat_score": 527068,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 20,
+      "keyword": "凡人天恨老怪为何而来",
+      "hot_id": 277562,
+      "heat_score": 515865,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 21,
+      "keyword": "特斯拉Roadster为何能飞",
+      "hot_id": 277484,
+      "heat_score": 515627,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 22,
+      "keyword": "用DeepSeek翻唱人是猫",
+      "hot_id": 277355,
+      "heat_score": 495252,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 23,
+      "keyword": "人形机器人产业前景究竟如何",
+      "hot_id": 277552,
+      "heat_score": 486353,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 24,
+      "keyword": "OK哥斐济赶海硬刚米级大马鲛",
+      "hot_id": 277540,
+      "heat_score": 482261,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 25,
+      "keyword": "小沈阳唐九洲颜安在梅边好惊艳",
+      "hot_id": 277596,
+      "heat_score": 478280,
+      "heat_layer": "A"
+    },
+    {
+      "rank": 26,
+      "keyword": "绝区零菲欧妮角色展示",
+      "hot_id": 277349,
+      "heat_score": 473959,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 27,
+      "keyword": "特斯拉Roadster造车门槛有多高",
+      "hot_id": 277377,
+      "heat_score": 463781,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 28,
+      "keyword": "凡人魏无涯和仲神师对战细节",
+      "hot_id": 277551,
+      "heat_score": 460069,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 29,
+      "keyword": "巴萨5-2十人贝蒂斯",
+      "hot_id": 277604,
+      "heat_score": 442098,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 30,
+      "keyword": "驻日美军到底有多无法无天",
+      "hot_id": 277380,
+      "heat_score": 427976,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 31,
+      "keyword": "韩立",
+      "hot_id": 277464,
+      "heat_score": 421900,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 32,
+      "keyword": "灭霸 打响指我也认",
+      "hot_id": 277590,
+      "heat_score": 415668,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 33,
+      "keyword": "结过婚我也认是什么梗",
+      "hot_id": 277482,
+      "heat_score": 411041,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 34,
+      "keyword": "休宁凯和羊PD喝豆汁",
+      "hot_id": 277543,
+      "heat_score": 401470,
+      "heat_layer": "A"
+    },
+    {
+      "rank": 35,
+      "keyword": "挑战全程扛共享单车登顶峨眉山",
+      "hot_id": 277500,
+      "heat_score": 390655,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 36,
+      "keyword": "使命召唤23全剧情流程通关攻略",
+      "hot_id": 277612,
+      "heat_score": 368522,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 37,
+      "keyword": "全嘻嘻老公如何靠婚姻拿大结果",
+      "hot_id": 277430,
+      "heat_score": 363660,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 38,
+      "keyword": "沙特与胡塞冲突为何反复升级",
+      "hot_id": 277610,
+      "heat_score": 343288,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 39,
+      "keyword": "UP主将闪身步做成游戏",
+      "hot_id": 277475,
+      "heat_score": 332170,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 40,
+      "keyword": "TES出征前队内秘聊",
+      "hot_id": 277537,
+      "heat_score": 328620,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 41,
+      "keyword": "爱河对我耳朵很友好",
+      "hot_id": 277594,
+      "heat_score": 312056,
+      "heat_layer": "A"
+    },
+    {
+      "rank": 42,
+      "keyword": "10月热梗速览",
+      "hot_id": 277572,
+      "heat_score": 307205,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 43,
+      "keyword": "梳理黄子韬徐艺洋生子时间线",
+      "hot_id": 277561,
+      "heat_score": 302820,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 44,
+      "keyword": "当DeepSeek修复之后belike",
+      "hot_id": 277499,
+      "heat_score": 302683,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 45,
+      "keyword": "DeepSeek新模型实测",
+      "hot_id": 277619,
+      "heat_score": 302442,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 46,
+      "keyword": "多地迎来大范围暴力秋雨",
+      "hot_id": 277507,
+      "heat_score": 301961,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 47,
+      "keyword": "万字解读刘诗诗新剧醉梦",
+      "hot_id": 277581,
+      "heat_score": 299975,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 48,
+      "keyword": "iPhone的1000天",
+      "hot_id": 277541,
+      "heat_score": 298215,
+      "heat_layer": "A"
+    },
+    {
+      "rank": 49,
+      "keyword": "原神场景叙事设计有多用心",
+      "hot_id": 277459,
+      "heat_score": 295046,
+      "heat_layer": "B"
+    },
+    {
+      "rank": 50,
+      "keyword": "当黑神话钟馗走进现实",
+      "hot_id": 277515,
+      "heat_score": 288260,
+      "heat_layer": "B"
+    }
+  ]
+}

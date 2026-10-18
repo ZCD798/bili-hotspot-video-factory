@@ -1,0 +1,70 @@
+{
+  "assets": [
+    {
+      "id": "rack",
+      "rights_reviewed": true,
+      "path": "assets/server_rack_fbi.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/EFTA00002005_-_Server_rack_filled_with_networking_equipment_and_cables_including_blue_Ethernet_connections_and_orange_wires_in_a_data_center_environment.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:EFTA00002005_-_Server_rack_filled_with_networking_equipment_and_cables_including_blue_Ethernet_connections_and_orange_wires_in_a_data_center_environment.jpg",
+      "creator": "Federal Bureau of Investigation (FBI)",
+      "license": "Public domain (U.S. federal government work)",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-FBI",
+      "attribution": "FBI · Public domain",
+      "use_basis": "Wikimedia Commons marks the file public domain as a U.S. federal government work; shown as generic server-room illustration only.",
+      "visual_kind": "illustrative_hardware_photo",
+      "captured_or_published": "Commons file metadata",
+      "represents_current_event": false,
+      "modifications": "Portrait crop, slow zoom/pan, contrast overlay; no DeepSeek branding added",
+      "sha256": "0b25a3401bf9d3d5fd4fdcd971121c9cc5062e82ca6bd76a687d26683c75fe97",
+      "downloaded_bytes": 299418,
+      "verified_dimensions": [
+        768,
+        1152
+      ]
+    },
+    {
+      "id": "drives",
+      "rights_reviewed": true,
+      "path": "assets/server_drives_fbi.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/EFTA00002518_-_Server_rack_with_multiple_hard_drives_and_network_cables_connected_in_a_data_center_environment.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:EFTA00002518_-_Server_rack_with_multiple_hard_drives_and_network_cables_connected_in_a_data_center_environment.jpg",
+      "creator": "Federal Bureau of Investigation (FBI)",
+      "license": "Public domain (U.S. federal government work)",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-FBI",
+      "attribution": "FBI · Public domain",
+      "use_basis": "Wikimedia Commons marks the file public domain as a U.S. federal government work; used as a generic storage illustration.",
+      "visual_kind": "illustrative_hardware_photo",
+      "captured_or_published": "Commons file metadata",
+      "represents_current_event": false,
+      "modifications": "Portrait crop, slow zoom/pan, contrast overlay; no claim that these are DeepSeek servers",
+      "sha256": "5912461e122586b5ec28a64593a0aa1be4165fddfe1626000d6d19c4b872119f",
+      "downloaded_bytes": 223499,
+      "verified_dimensions": [
+        1152,
+        768
+      ]
+    },
+    {
+      "id": "nersc",
+      "rights_reviewed": true,
+      "path": "assets/server_nersc.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+      "creator": "Derrick Coetzee (Flickr contributor)",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Derrick Coetzee · CC0 1.0",
+      "use_basis": "File metadata on Wikimedia Commons identifies CC0; attribution retained as provenance though not required by the license.",
+      "visual_kind": "illustrative_hardware_photo",
+      "captured_or_published": "Commons file metadata",
+      "represents_current_event": false,
+      "modifications": "Portrait crop, slow zoom/pan, contrast overlay; labeled as generic infrastructure illustration",
+      "sha256": "5d4d383730b304c53e948f885a920ef524170023589391dbf0a1cfb27cd48e24",
+      "downloaded_bytes": 2776125,
+      "verified_dimensions": [
+        2860,
+        4304
+      ]
+    }
+  ]
+}
